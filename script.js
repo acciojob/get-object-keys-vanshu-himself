@@ -2,7 +2,7 @@
 let student={
 	name ,
 	getKeys:function(){
-		console.log(this);
-		// return this;
+		// console.log(this);
+		return this;
 	}
 }
